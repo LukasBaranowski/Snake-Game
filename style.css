@@ -1,0 +1,14 @@
+html body {
+    margin: 0;
+    padding: 0;
+    background: black;
+}
+#C1 {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    background: url('img/background.png');
+}

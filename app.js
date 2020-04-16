@@ -254,19 +254,19 @@ class Game {
         let _ctx = _cvs.getContext("2d");
         // The Image() constructor creates a new HTMLImageElement instance. It is functionally equivalent to document.createElement('img')
         let bgImage = new Image();
-        bgImage.src = "img/background.png";
+        bgImage.src = "background.png";
         bgImage.addEventListener('load', () => {
             bgImage = this;
         });
 
         let snImage = new Image();
-        snImage.src = "img/snakeV2.png";
+        snImage.src = "snakeV2.png";
         snImage.addEventListener('load', () => {
             snImage = this;
         });
 
         let frImage = new Image();
-        frImage.src = "img/viruses.png";
+        frImage.src = "viruses.png";
         frImage.addEventListener('load', () => {
             frImage = this;
         });

@@ -6,10 +6,12 @@ html body {
 .text {
     position: absolute;
     margin: 20px;
-    color: #fff;
-    font-size: 16px;
     align-items: center;
     top: 10vf;
+.text p {
+    color: #fff;
+    font-size: 16px;
+    
 #C1 {
     position: absolute;
     top: 0;

@@ -3,6 +3,8 @@ html body {
     padding: 0;
     background: black;
 }
+html body div {
+    color: #fff;
 #C1 {
     position: absolute;
     top: 0;

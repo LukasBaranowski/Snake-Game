@@ -3,12 +3,6 @@ html body {
     padding: 0;
     background: black;
 }
-html body div {
-    color: #fff;
-    align-items: center;
-    position: relative;
-    top: 5vh;
-    font-size: 16px;
 #C1 {
     position: absolute;
     top: 0;

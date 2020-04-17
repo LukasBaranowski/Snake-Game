@@ -3,7 +3,7 @@ html body {
     padding: 0;
     background: black;
 }
-html body p {
+.text {
     position: absolute;
     margin: 20px;
     color: #fff;

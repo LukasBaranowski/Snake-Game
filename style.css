@@ -2,16 +2,7 @@ html body {
     margin: 0;
     padding: 0;
     background: black;
-}
-.text {
-    position: absolute;
-    margin: 20px;
-    align-items: center;
-    top: 10vf;
-.text p {
-    color: #333;
-    font-size: 16px;
-    
+}   
 #C1 {
     position: absolute;
     top: 0;

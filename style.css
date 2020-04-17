@@ -3,11 +3,12 @@ html body {
     padding: 0;
     background: black;
 }
-body p {
+html body p {
     margin: 20px;
     color: #fff;
     font-size: 16px;
     align-items: center;
+    top: 10vf;
 #C1 {
     position: absolute;
     top: 0;
